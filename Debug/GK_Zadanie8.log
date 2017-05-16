@@ -1,0 +1,5 @@
+﻿  GK_Zadanie8.cpp
+d:\programowanie\gk_zadanie8\gk_zadanie8\gk_zadanie8.cpp(302): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\programowanie\gk_zadanie8\gk_zadanie8\gk_zadanie8.cpp(304): warning C4244: "-=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  GK_Zadanie8.vcxproj -> D:\Programowanie\GK_Zadanie8\Debug\GK_Zadanie8.exe
+  GK_Zadanie8.vcxproj -> D:\Programowanie\GK_Zadanie8\Debug\GK_Zadanie8.pdb (Partial PDB)
